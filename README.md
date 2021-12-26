@@ -4,7 +4,7 @@ editor de codigo por lo que quisiera aportar a aquellos que solo se interesan ma
 
 ### Para empesar
 Se utilizan las siguentes tecnologias
-  - .NET 6 
+  - [.NET 6](https://dotnet.microsoft.com/en-us/download) 
   - MAUI .NET
   - [Visual Studio Code](https://code.visualstudio.com/)
 
