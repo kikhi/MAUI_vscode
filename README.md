@@ -1,4 +1,4 @@
-# MAUI VScode
+# MAUI vscode
 Esta es una pequeña guia documentada de como utilizar MAUI en visual studio code. No encuentro casi dada de informacion para un enfoque a los programadores en un editor de codigo por lo que quisiera aportar a aquellos que solo se interesan mas por la parte del codigo.
 
 ### Para empesar
